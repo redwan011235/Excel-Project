@@ -4,7 +4,7 @@ The main goal of this project is to create an easy-to-understand dashboard using
 ## Datset Used
 - <a href="https://github.com/redwan011235/Excel-Dashboard/blob/main/Dataset%20of%20HR%20Attrition%20Project.xlsx">Dataset</a>
 
-- [Datasets](https://github.com/redwan011235/Excel-Project/blob/main/Dataset%20of%20HR%20Attrition%20Project.xlsx)
+- [Dataset](https://github.com/redwan011235/Excel-Project/blob/main/Dataset_HR_Attrition.xlsx)
 ## Project requirements
 -	KPI -1: Calculate the Total Number of employees
 - KPI -2: Calculate the Total number of attritions. 
