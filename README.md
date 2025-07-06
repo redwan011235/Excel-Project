@@ -3,6 +3,9 @@
 The main goal of this project is to create an easy-to-understand dashboard using Excel that helps track and analyze employee attrition (people leaving the company). It shows key numbers like total employees, attrition rate, and average age. It also helps find out which groups (like departments, job roles, or age groups) have more people leaving, so the company can take steps to improve employee retention and workplace satisfaction.
 ## Datset Used
 - <a href="https://github.com/redwan011235/Excel-Dashboard/blob/main/Dataset%20of%20HR%20Attrition%20Project.xlsx">Dataset</a>
+## Datset Used
+- [Datasets](https://github.com/redwan011235/Excel-Project/blob/main/Dataset%20of%20HR%20Attrition%20Project.xlsx)    
+
 ## Project requirements
 -	KPI -1: Calculate the Total Number of employees
 - KPI -2: Calculate the Total number of attritions. 
