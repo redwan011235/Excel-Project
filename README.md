@@ -5,35 +5,35 @@ The objective of this project is to develop a dynamic Excel-based Talent Acquisi
 ## Datset Used
 - [Dataset](https://github.com/redwan011235/Excel-Project/blob/main/Dataset.xlsx)
   ## Project requirements
-.KPI -1: Calculate the Total Number of Applicants
+- KPI -1: Calculate the Total Number of Applicants
 
-.KPI -2: Calculate the Total Number of Shortlisted Candidates
+- KPI -2: Calculate the Total Number of Shortlisted Candidates
 
-.KPI -3: Calculate the Total Number of Offers Provided
+- KPI -3: Calculate the Total Number of Offers Provided
 
-.KPI -4: Calculate the Total Number of Hires
+- KPI -4: Calculate the Total Number of Hires
 
-.KPI -5: Calculate the Offer Acceptance Rate
+- KPI -5: Calculate the Offer Acceptance Rate
 
-.KPI -6: Calculate the Time-to-Hire (Average Days to Fill a Position)
+- KPI -6: Calculate the Time-to-Hire (Average Days to Fill a Position)
 
-.KPI -7: Calculate the Source-wise Applicant Conversion Rate
+- KPI -7: Calculate the Source-wise Applicant Conversion Rate
 
-.Show the Recruitment Funnel (Applicants → Shortlisted → Offers → Hires)
+- Show the Recruitment Funnel (Applicants → Shortlisted → Offers → Hires)
 
-.Show Department-Wise Recruitment Status (Use Bar Chart)
+- Show Department-Wise Recruitment Status (Use Bar Chart)
 
-.Show Job Role-Wise Hiring (Use Column Chart)
+- Show Job Role-Wise Hiring (Use Column Chart)
 
-.Show Source of Hire Distribution (Use Pie/Donut Chart)
+- Show Source of Hire Distribution (Use Pie/Donut Chart)
 
-.Show Monthly/Quarterly Hiring Trends (Use Line Chart)
+- Show Monthly/Quarterly Hiring Trends (Use Line Chart)
 
-.Show Gender Diversity of Hires (Use Donut Chart)
+- Show Gender Diversity of Hires (Use Donut Chart)
 
-.Filter/Slicer 1: Department
+- Filter/Slicer 1: Department
 
-.Filter/Slicer 2: Job Role
+- Filter/Slicer 2: Job Role
 
 ## Process
 .Step 1: Collect and clean raw recruitment data (Applicants, Shortlisted, Offers, Hires, Sources, Departments, Job Roles).
