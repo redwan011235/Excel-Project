@@ -40,6 +40,14 @@ The objective of this project is to develop a dynamic Excel-based Talent Acquisi
 - Step 11: Apply conditional formatting and KPI cards for better readability.
 - Step 12: Test the dashboard for accuracy, interactivity, and usability.
 
+## Dashboard
+### 🏠 Homepage
+![Screenshot](https://github.com/redwan011235/Excel-Project/blob/main/Screenshots/Homepage.jpg)
+## 📊 Vacancy Fill Rate Dashboard
+![Screenshot](https://github.com/redwan011235/Excel-Project/blob/main/Screenshots/Vacancy%20Fill%20Rate%20Dashboard.jpg)
+## 📈 Hiring Progress KPI Dashboard
+![Screenshot](https://github.com/redwan011235/Excel-Project/blob/main/Screenshots/Hiring%20Progress%20KPI%20Dashboard.jpg)
+
 ## Project Insights
 
 - Insight -1: A total of 3,000 applications were received, of which 253 were hired → Overall Hire Rate = 8.4%.
