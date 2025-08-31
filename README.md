@@ -47,6 +47,10 @@ The objective of this project is to develop a dynamic Excel-based Talent Acquisi
 ![Screenshot](https://github.com/redwan011235/Excel-Project/blob/main/Screenshots/Vacancy%20Fill%20Rate%20Dashboard.jpg)
 ## 📈 Hiring Progress KPI Dashboard
 ![Screenshot](https://github.com/redwan011235/Excel-Project/blob/main/Screenshots/Hiring%20Progress%20KPI%20Dashboard.jpg)
+### 🎯👥 HR KPIs Scoreboard 
+![Screenshot](https://github.com/redwan011235/Excel-Project/blob/main/Screenshots/HR%20KPIs%20Scoreboard.jpg)
+### 🧠💡 Insights
+![Screenshot](https://github.com/redwan011235/Excel-Project/blob/main/Screenshots/Insights.jpg)
 
 ## Project Insights
 
