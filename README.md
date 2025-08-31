@@ -1,10 +1,13 @@
 # Talent Acquisition Dashboard
 A dynamic Excel-based Talent Acquisition Dashboard for tracking recruitment metrics, including applicants, offers, hires, and KPIs.
+
 ## Project Objective
 The objective of this project is to develop a dynamic Excel-based Talent Acquisition Dashboard that tracks key recruitment metrics such as applicants, offers, hires, and KPIs. It provides insights into hiring costs, timelines, and sources, helping HR teams identify trends, address bottlenecks, and make data-driven decisions to improve overall recruitment efficiency.
+
 ## Datset Used
 - [Dataset](https://github.com/redwan011235/Excel-Project/blob/main/Dataset.xlsx)
-  ## Project requirements
+  
+## Project requirements
 - KPI -1: Calculate the Total Number of Applicants
 - KPI -2: Calculate the Total Number of Shortlisted Candidates
 - KPI -3: Calculate the Total Number of Offers Provided
@@ -20,6 +23,8 @@ The objective of this project is to develop a dynamic Excel-based Talent Acquisi
 - Show Gender Diversity of Hires (Use Donut Chart)
 - Filter/Slicer 1: Department
 - Filter/Slicer 2: Job Role
+- Filter/Slicer 3: Source of Hire
+- Filter/Slicer 4: Time Period (Month/Quarter/Year)
 
 ## Process
 - Step 1: Collect and clean raw recruitment data (Applicants, Shortlisted, Offers, Hires, Sources, Departments, Job Roles).
@@ -35,6 +40,6 @@ The objective of this project is to develop a dynamic Excel-based Talent Acquisi
 - Step 11: Apply conditional formatting and KPI cards for better readability.
 - Step 12: Test the dashboard for accuracy, interactivity, and usability.
 
-Filter/Slicer 3: Source of Hire
 
-Filter/Slicer 4: Time Period (Month/Quarter/Year)
+
+
