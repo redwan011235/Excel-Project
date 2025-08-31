@@ -58,7 +58,7 @@ The objective of this project is to develop a dynamic Excel-based Talent Acquisi
 
 - Insight -8: Diversity Insight – While female candidates are present in the pipeline, their offer-to-hire conversion is lower, showing the need to strengthen the female hiring pipeline.
 
-🏁 Conclusion
+ ## 🏁 Conclusion
 The HR Recruitment Dashboard successfully transforms raw recruitment data into actionable insights. It highlights key hiring metrics, identifies bottlenecks in the recruitment pipeline, and uncovers opportunities such as improving referral programs, enhancing employer branding, and addressing gender diversity gaps. By providing clear visualizations and KPI-driven insights, the dashboard enables HR teams to make data-driven decisions, optimize recruitment strategies, and ultimately improve overall hiring efficiency and effectiveness.
 
 
