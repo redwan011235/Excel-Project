@@ -36,18 +36,18 @@ The objective of this project is to develop a dynamic Excel-based Talent Acquisi
 - Filter/Slicer 2: Job Role
 
 ## Process
-.Step 1: Collect and clean raw recruitment data (Applicants, Shortlisted, Offers, Hires, Sources, Departments, Job Roles).
-.Step 2: Load the dataset into Excel and format it into structured tables.
-.Step 3: Use Power Query for data transformation (removing duplicates, handling nulls, standardizing fields).
-.Step 4: Build a Data Model linking applicants, offers, hires, and source information.
-.Step 5: Create PivotTables for KPIs (Applicants, Shortlisted, Offers, Hires, Conversion Rates, Time-to-Hire).
-.Step 6: Design Vacancy Fill Rate Dashboard to track open positions vs. filled positions.
-.Step 7: Design Hiring Progress KPI Dashboard to monitor stage-wise progress in the recruitment funnel.
-.Step 8: Design HR KPIs Scoreboard with high-level performance indicators (Acceptance Rate, Diversity, Hiring Trends).
-.Step 9: Add charts (Funnel, Bar, Column, Donut, Line, Tree Map) to visualize recruitment metrics.
-.Step 10: Add Slicers/Filters for Department, Job Role, Source of Hire, and Timeline.
-.Step 11: Apply conditional formatting and KPI cards for better readability.
-.Step 12: Test the dashboard for accuracy, interactivity, and usability.
+- Step 1: Collect and clean raw recruitment data (Applicants, Shortlisted, Offers, Hires, Sources, Departments, Job Roles).
+- Step 2: Load the dataset into Excel and format it into structured tables.
+- Step 3: Use Power Query for data transformation (removing duplicates, handling nulls, standardizing fields).
+- Step 4: Build a Data Model linking applicants, offers, hires, and source information.
+- Step 5: Create PivotTables for KPIs (Applicants, Shortlisted, Offers, Hires, Conversion Rates, Time-to-Hire).
+- Step 6: Design Vacancy Fill Rate Dashboard to track open positions vs. filled positions.
+- Step 7: Design Hiring Progress KPI Dashboard to monitor stage-wise progress in the recruitment funnel.
+- Step 8: Design HR KPIs Scoreboard with high-level performance indicators (Acceptance Rate, Diversity, Hiring Trends).
+- Step 9: Add charts (Funnel, Bar, Column, Donut, Line, Tree Map) to visualize recruitment metrics.
+- Step 10: Add Slicers/Filters for Department, Job Role, Source of Hire, and Timeline.
+- Step 11: Apply conditional formatting and KPI cards for better readability.
+- Step 12: Test the dashboard for accuracy, interactivity, and usability.
 
 Filter/Slicer 3: Source of Hire
 
