@@ -40,6 +40,24 @@ The objective of this project is to develop a dynamic Excel-based Talent Acquisi
 - Step 11: Apply conditional formatting and KPI cards for better readability.
 - Step 12: Test the dashboard for accuracy, interactivity, and usability.
 
+## Project Insights
+
+- Insight -1: A total of 3,000 applications were received, of which 253 were hired → Overall Hire Rate = 8.4%.
+
+- Insight -2: 628 offers were made and 386 were accepted, but only 253 joined → Offer-to-Hire conversion = 40%, indicating a joining gap.
+
+- Insight -3: The Referral program is inactive, representing a clear opportunity area for improvement.
+
+- Insight -4: Business Development and Operations show the largest manpower demand compared to other departments.
+
+- Insight -5: The biggest bottleneck occurs in the Offered → Hired stage, highlighting issues with candidate experience and offer competitiveness.
+
+- Insight -6: The Offer Acceptance Rate is 61.5%, below industry benchmarks → signals the need to strengthen employer branding and candidate engagement.
+
+- Insight -7: Peak applications were observed in a specific month, reflecting seasonal recruitment trends.
+
+- Insight -8: Diversity Insight – While female candidates are present in the pipeline, their offer-to-hire conversion is lower, showing the need to strengthen the female hiring pipeline.
+
 
 
 
