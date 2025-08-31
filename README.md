@@ -5,3 +5,35 @@ The objective of this project is to develop a dynamic Excel-based Talent Acquisi
 ## Datset Used
 - [Dataset](https://github.com/redwan011235/Excel-Project/blob/main/Dataset.xlsx)
   ## Project requirements
+.KPI -1: Calculate the Total Number of Applicants
+.KPI -2: Calculate the Total Number of Shortlisted Candidates
+.KPI -3: Calculate the Total Number of Offers Provided
+.KPI -4: Calculate the Total Number of Hires
+.KPI -5: Calculate the Offer Acceptance Rate
+.KPI -6: Calculate the Time-to-Hire (Average Days to Fill a Position)
+.KPI -7: Calculate the Source-wise Applicant Conversion Rate
+.Show the Recruitment Funnel (Applicants → Shortlisted → Offers → Hires)
+.Show Department-Wise Recruitment Status (Use Bar Chart)
+.Show Job Role-Wise Hiring (Use Column Chart)
+.Show Source of Hire Distribution (Use Pie/Donut Chart)
+.Show Monthly/Quarterly Hiring Trends (Use Line Chart)
+.Show Gender Diversity of Hires (Use Donut Chart)
+.Filter/Slicer 1: Department
+.Filter/Slicer 2: Job Role
+## Process
+.Step 1: Collect and clean raw recruitment data (Applicants, Shortlisted, Offers, Hires, Sources, Departments, Job Roles).
+.Step 2: Load the dataset into Excel and format it into structured tables.
+.Step 3: Use Power Query for data transformation (removing duplicates, handling nulls, standardizing fields).
+.Step 4: Build a Data Model linking applicants, offers, hires, and source information.
+.Step 5: Create PivotTables for KPIs (Applicants, Shortlisted, Offers, Hires, Conversion Rates, Time-to-Hire).
+.Step 6: Design Vacancy Fill Rate Dashboard to track open positions vs. filled positions.
+.Step 7: Design Hiring Progress KPI Dashboard to monitor stage-wise progress in the recruitment funnel.
+.Step 8: Design HR KPIs Scoreboard with high-level performance indicators (Acceptance Rate, Diversity, Hiring Trends).
+.Step 9: Add charts (Funnel, Bar, Column, Donut, Line, Tree Map) to visualize recruitment metrics.
+.Step 10: Add Slicers/Filters for Department, Job Role, Source of Hire, and Timeline.
+.Step 11: Apply conditional formatting and KPI cards for better readability.
+.Step 12: Test the dashboard for accuracy, interactivity, and usability.
+
+Filter/Slicer 3: Source of Hire
+
+Filter/Slicer 4: Time Period (Month/Quarter/Year)
